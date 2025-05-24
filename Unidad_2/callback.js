@@ -16,3 +16,15 @@ let nuevoArray = arrayNumeros.map( (numero) => numero + 1 );
 
 //console.log(nuevoArray);
 
+const functionCallback = (numero) => {
+    if(numero%2 === 0){
+        return numero;
+    }else{
+        return "No es par"
+
+    }
+};
+
+const evaluarPares = arrayNumeros.map(functionCallback);
+
+console.log(evaluarPares);
