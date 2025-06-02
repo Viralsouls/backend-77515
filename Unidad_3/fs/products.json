@@ -5,18 +5,8 @@
     "description": "Buzo de invierno"
   },
   {
-    "id": 1,
+    "id": 2,
     "title": "Campera Adidas",
     "description": "Campera de invierno"
-  },
-  {
-    "id": 1,
-    "title": "Tenis Adidas",
-    "description": "Tenis de invierno"
-  },
-  {
-    "id": 1,
-    "title": "Tenis Puma",
-    "description": "Tenis deportivos"
   }
 ]
