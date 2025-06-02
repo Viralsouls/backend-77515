@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Buzo Adidas",
+    "description": "Buzo de invierno"
+  },
+  {
+    "id": 1,
+    "title": "Campera Adidas",
+    "description": "Campera de invierno"
+  },
+  {
+    "id": 1,
+    "title": "Tenis Adidas",
+    "description": "Tenis de invierno"
+  },
+  {
+    "id": 1,
+    "title": "Tenis Puma",
+    "description": "Tenis deportivos"
+  }
+]
